@@ -1,1 +1,3 @@
-de rbhtnn
+Working on Window form and adding this command 
+// Adding this line in form to load the data ine the form
+   this.Load += Form1_Load;
